@@ -14,8 +14,6 @@ Sarsılmaz Scam Notifier, Firefox üzerinde çalışan bir eklentidir. Bu eklent
 
 Aşağıda, eklentinin kullanımına dair ekran görüntüleri bulunmaktadır:
 
-![Ekran Görüntüsü 1](1.png)
-![Ekran Görüntüsü 2](2.png)
 ![Ekran Görüntüsü 3](3.png)
 ![Ekran Görüntüsü 4](4.png)
 
